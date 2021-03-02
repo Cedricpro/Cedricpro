@@ -1,4 +1,4 @@
-### Hi there 👋
+### Fantasie ist wichtiger als Wissen, denn Wissen ist begrenzt.
 
 <!--
 **Cedricpro/Cedricpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
